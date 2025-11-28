@@ -17,7 +17,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Main font */
     line-height: 1.6;       /* Space between lines of text */
-    color: #242424;         /* Secondary color for text */
+    color: #3267a3;         /* Secondary color for text */
     background: linear-gradient(to bottom, #dde8e3 0%, #c8d9d1 100%); /* Primary foreground gradient background */
 }
 
@@ -112,9 +112,9 @@ section h2::after {
     padding: 120px 20px;       /* Large top/bottom spacing */
     background: linear-gradient(135deg, #006239 0%, #004d2d 100%); /* Primary green gradient */
     /* To use an image instead, uncomment below and replace 'your-image.jpg' with your image path: */
-    /* background-image: url('your-image.jpg'); */
-    /* background-size: cover; */
-    /* background-position: center; */
+    background-image: url('img2.png'); 
+    background-size: cover;
+     background-position: center;
     color: #fafafa;            /* Secondary foreground (light text) */
     box-shadow: 0 15px 50px rgba(0, 98, 57, 0.4); /* Green glow */
     border-radius: 20px;       /* Rounded corners */
